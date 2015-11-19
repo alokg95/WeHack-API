@@ -1,3 +1,5 @@
+Backend API for WeHack iOS App - built with Node.js.
+
 AUTH
 ====
 
